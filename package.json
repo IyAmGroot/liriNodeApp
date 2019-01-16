@@ -1,0 +1,27 @@
+{
+  "name": "lirinodeapp",
+  "version": "1.0.0",
+  "description": "This is our LIRI app.  LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IyAmGroot/liriNodeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IyAmGroot/liriNodeApp/issues"
+  },
+  "homepage": "https://github.com/IyAmGroot/liriNodeApp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown": "1.0.1",
+    "node-spotify-api": "1.0.7",
+    "moment": "2.23.0",
+    "dotenv": "6.2.0"
+  }
+}
