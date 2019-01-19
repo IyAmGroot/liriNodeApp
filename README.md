@@ -47,7 +47,7 @@ spotify-this-song
   * A preview link of the song from Spotify
   * The album that the song is from
  do-what-it-says
-  * Reads from the file, random.txt.  This file contains the command "spotify-this-song" and the song name, "I Want it That Way".  [b]Yuck[/b]. The code will process the command and song name and process it as if it was called from the command line.
+  * Reads from the file, random.txt.  This file contains the command "spotify-this-song" and the song name, "I Want it That Way".    Yuck. The code will process the command and song name and process it as if it was called from the command line.
 
   
   
