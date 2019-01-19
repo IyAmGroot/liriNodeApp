@@ -51,10 +51,10 @@ spotify-this-song
 
   
   
-  ## Outputs ##
+## Outputs ##
   Search results are printed to the gitbash window and written to the log.txt file.
   
-  ## Video ##
+## Video ##
   A video demonstration of the app can be found by clicking the link below.
 
  [Click HERE for video](https://drive.google.com/open?id=1fjm3pj0Fic4sc1C2VX2RjvNjjJZP_ZOc).
