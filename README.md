@@ -17,7 +17,27 @@ This application also uses the following Node packages:
 * Moment
 * DotEnv
 
-## The Commands **
+## The Commands ##
+concert-this 
+* Arguments
+  * Band/Performer
+* Output
+  * Venue
+  * Venue Location
+  * Date (Formatted MM/DD/YYYY)
+  
+ movie-this
+ * Arguments
+  * Move Name
+ * Output
+   * Title of the movie.
+   * Year the movie came out.
+   * IMDB Rating of the movie.
+   * Rotten Tomatoes Rating of the movie.
+   * Country where the movie was produced.
+   * Language of the movie.
+   * Plot of the movie.
+   * Actors in the movie.
 
 
 Test URL:  [Click HERE](https://drive.google.com/open?id=1fjm3pj0Fic4sc1C2VX2RjvNjjJZP_ZOc).
