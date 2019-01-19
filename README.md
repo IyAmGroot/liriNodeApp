@@ -11,5 +11,14 @@ This application utilizes the following APIs:
 * Spotify
 * OMDB
 
+This application also uses the following Node packages:
+* Axios
+* Node-Spotify-API
+* Moment
+* DotEnv
+
+## The Commands **
+
+
 Test URL:  [Click HERE](https://drive.google.com/open?id=1fjm3pj0Fic4sc1C2VX2RjvNjjJZP_ZOc).
 
