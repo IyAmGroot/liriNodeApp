@@ -38,7 +38,14 @@ concert-this
    * Language of the movie.
    * Plot of the movie.
    * Actors in the movie.
-
+spotify-this-song
+* Arguments
+  * Song
+* Output
+  * Artist(s)
+  * The song's name
+  * A preview link of the song from Spotify
+  * The album that the song is from
 
 Test URL:  [Click HERE](https://drive.google.com/open?id=1fjm3pj0Fic4sc1C2VX2RjvNjjJZP_ZOc).
 
