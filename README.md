@@ -7,8 +7,8 @@ Call functions with parameters from the command line and generate output in GitB
 Technical Details
 This application utilizes the following APIs:
 
-Markup: *Bands In Town
-*Spotify
-*OMDB
+* Bands In Town
+* Spotify
+* OMDB
 
 
