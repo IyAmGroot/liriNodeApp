@@ -28,7 +28,7 @@ concert-this
   
  movie-this
  * Arguments
-   * Move Name
+   * Move Name (defaults to "Mr. Nobody" if no movie name is entered)
  * Output
    * Title of the movie.
    * Year the movie came out.
@@ -40,12 +40,22 @@ concert-this
    * Actors in the movie.
 spotify-this-song
 * Arguments
-  * Song
+  * Song (defaults to "The Sign" if no song is entered)
 * Output
   * Artist(s)
   * The song's name
   * A preview link of the song from Spotify
   * The album that the song is from
+ do-what-it-says
+  * Reads from the file, random.txt.  This file contains the command "spotify-this-song" and the song name, "I Want it That Way".  Yuck. the code will process the command and song name and process it as if it was called from the command line.
 
-Test URL:  [Click HERE](https://drive.google.com/open?id=1fjm3pj0Fic4sc1C2VX2RjvNjjJZP_ZOc).
+  
+  
+  ## Outputs ##
+  Search results are printed to the gitbash window and written to the log.txt file.
+  
+  ## Video ##
+  A video demonstration of the app can be found by clicking the link below.
+
+ [Click HERE for video](https://drive.google.com/open?id=1fjm3pj0Fic4sc1C2VX2RjvNjjJZP_ZOc).
 
