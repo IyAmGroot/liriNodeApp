@@ -57,5 +57,5 @@ spotify-this-song
 ## Video ##
   A video demonstration of the app can be found by clicking the link below.
 
- [Click HERE for video](https://drive.google.com/open?id=1fjm3pj0Fic4sc1C2VX2RjvNjjJZP_ZOc).
+ [Click HERE for video](https://drive.google.com/file/d/1lowGlbmKkR516bPMA_cQgwWQttsYZXeQ/view).
 
