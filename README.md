@@ -58,6 +58,7 @@ spotify-this-song
   A video demonstration of the app can be found by clicking the link below.
 
  [Click HERE for video](https://drive.google.com/file/d/1lowGlbmKkR516bPMA_cQgwWQttsYZXeQ/view).
+ <a href="https://drive.google.com/file/d/1lowGlbmKkR516bPMA_cQgwWQttsYZXeQ/view" target="_blank">Click HERE for video</a>
 
 
 
